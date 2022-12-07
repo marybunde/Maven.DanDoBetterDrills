@@ -11,10 +11,9 @@ public class MathUtilities {
      * @return sum of `baseValue` and `difference`
      */
     public Integer add(int baseValue, int difference) {
-        int sum;
-        sum = baseValue + difference;
 
-        return sum;
+
+        return null;
     }
 
     /**
