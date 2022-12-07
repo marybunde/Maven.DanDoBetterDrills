@@ -11,13 +11,15 @@ public class MathUtilities {
      * @return sum of `baseValue` and `difference`
      */
     public Integer add(int baseValue, int difference) {
+    int value;
+    value = baseValue + difference;
 
-
-        return null;
+        return value;
     }
 
     /**
-     * @param baseValue  starting value
+     * @pa
+     * ram baseValue  starting value
      * @param difference value to add to starting value
      * @return sum of `baseValue` and `difference`
      */
